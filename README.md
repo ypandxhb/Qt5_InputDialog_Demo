@@ -1,0 +1,4 @@
+# Qt5_InputDialog_Demo
+qt5基本对话对话框的demo
+qt5基本对话框的实例
+包含qt5的基本类型的对话框
